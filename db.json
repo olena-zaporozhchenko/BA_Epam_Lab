@@ -1,0 +1,72 @@
+[
+  {
+    "emp_id": 1,
+    "emp_name": "Ethan Hunt",
+    "hire_date": "2001-05-01",
+    "salary": 5000,
+    "dept_id": 4
+  },
+  {
+    "emp_id": 2,
+    "emp_name": "Tony Montana",
+    "hire_date": "2002-07-15",
+    "salary": 6500,
+    "dept_id": 1
+  },
+  {
+    "emp_id": 3,
+    "emp_name": "Sarah Connor",
+    "hire_date": "2005-10-18",
+    "salary": 8000,
+    "dept_id": 5
+  },
+  {
+    "emp_id": 4,
+    "emp_name": "Rick Deckard",
+    "hire_date": "2007-01-03",
+    "salary": 7200,
+    "dept_id": 3
+  },
+  {
+    "emp_id": 5,
+    "emp_name": "Martin Blank",
+    "hire_date": "2008-06-24",
+    "salary": 5900,
+    "dept_id": null
+  },
+  {
+    "emp_id": 6,
+    "emp_name": "simons bistro",
+    "hire_date": "2009-04-01",
+    "salary": 6000,
+    "dept_id": 1
+  },
+  {
+    "emp_id": 7,
+    "emp_name": "Janet Leverling",
+    "hire_date": "2011-04-13",
+    "salary": 5200,
+    "dept_id": 5
+  },
+  {
+    "emp_id": 8,
+    "emp_name": "Steven Buchanan",
+    "hire_date": "2013-05-03",
+    "salary": 4750,
+    "dept_id": 5
+  },
+  {
+    "emp_id": 9,
+    "emp_name": "Laura Callahan",
+    "hire_date": "2015-03-05",
+    "salary": 3850,
+    "dept_id": null
+  },
+  {
+    "emp_id": 10,
+    "emp_name": "Nancy Davolio",
+    "hire_date": "2016-10-17",
+    "salary": 4800,
+    "dept_id": 3
+  }
+]
