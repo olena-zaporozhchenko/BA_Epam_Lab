@@ -1,4 +1,5 @@
-[
+{
+ "salary" = [
   {
     "emp_id": 1,
     "emp_name": "Ethan Hunt",
@@ -69,4 +70,5 @@
     "salary": 4800,
     "dept_id": 3
   }
-]
+  ]
+}
